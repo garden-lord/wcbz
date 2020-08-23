@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    {{- partial "_shared/head.html" . -}}
+    <body>
+        {{- block "header" . }}{{- end }}
+        <div class="site-content">   
+            <div class="container">
+                {{- block "main" . }}{{- end }}
+            </div>
+            {{- block "footer" . }}{{- end }}
+        </div>
+        {{- partial "_shared/js.html" . -}}
+        <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101273605);</script>
+        <script async src="//static.getclicky.com/js"></script>
+        <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101273605ns.gif" /></p></noscript>
+        </body>
+</html>

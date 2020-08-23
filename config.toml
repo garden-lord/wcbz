@@ -1,0 +1,12 @@
+languageCode = "en-us"
+title = "What's Cookin'"
+theme = "custom-medium"
+summaryLength = 25
+enableEmoji = true
+publishDir = "docs"
+
+[params]
+  description = "Reviews of food from the my kitchen and grocery store"
+
+[markup.goldmark.renderer]
+  unsafe= true

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What&#39;s Cookin&#39;</title>
+    <link>/</link>
+    <description>Recent content on What&#39;s Cookin&#39;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bean Chili</title>
+      <link>/bean-chili/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/bean-chili/</guid>
+      <description>Those who know me well know that I am a sucker for a nice pot of chili, for too many reasons to list out here. For just the highlights: it&amp;rsquo;s quick and it&amp;rsquo;s good.</description>
+    </item>
+    
+    <item>
+      <title>Blue Gatorade</title>
+      <link>/gatorade/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/gatorade/</guid>
+      <description>These days Gatorade comes in all shapes, colors, and sizes. I typically stick with the traditional &amp;ldquo;Thirst Quencher&amp;rdquo; line of products, which comes in dozens of flavors.</description>
+    </item>
+    
+    <item>
+      <title>Organic Honey Crunch n&#39; Oats Cereal</title>
+      <link>/tj-cereal/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tj-cereal/</guid>
+      <description>It&amp;rsquo;s breakfast time! And unfortunately there are no Froot Loops to be found, so we will have to settle for Trader Joe&amp;rsquo;s Organic Honey Crunch n&amp;rsquo; Oats Cereal.</description>
+    </item>
+    
+    <item>
+      <title>Mint Cookies and Cream Ice Cream</title>
+      <link>/mint-ice-cream/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/mint-ice-cream/</guid>
+      <description>To kick things off here on whatscookin.biz, I will doing a short review of the Mint Cookies and Cream ice cream from Archer Farms. It may surprise you to find out that Archer Farms is actually the predecessor of Target&amp;rsquo;s &amp;ldquo;Good &amp;amp; Gather&amp;rdquo; store brand.</description>
+    </item>
+    
+  </channel>
+</rss>
