@@ -1,5 +1,5 @@
 ---
-title: "Udon from a bowl"
+title: "Udon from a Bowl"
 date: 2020-08-24
 ---
 
