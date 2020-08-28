@@ -1,5 +1,7 @@
 #!/bin/bash
 find . -type f -name '*.jpg' | xargs -P8 exiftool -overwrite_original -all=
+find . -type f -name '*.jpg' | xargs -P8 exiftool -overwrite_original -all=
+find . -type f -name '*.jpg' | xargs -P8 exiftool -overwrite_original -all=
 
 find . -type f -name '*.jpg' | xargs -P8 exiftool | grep GPS
 
