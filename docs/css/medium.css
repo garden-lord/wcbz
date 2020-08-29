@@ -853,3 +853,18 @@ iframe {
 .maxthumb a {
     align-self: center;
 }
+
+.poem {
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.poem p {
+    text-indent: 0;
+    margin-left: 2em;
+}
+.poem span {
+    margin-left: -2em;
+    display: block;
+}
