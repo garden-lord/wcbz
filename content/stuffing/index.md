@@ -11,7 +11,7 @@ Even without a turkey, you can still enjoy a nice, heaping helping of stuffing a
 ![Both](/stuffing/both.jpg)
 {{</img>}}
 
-Though it presents itself as a simple problem, there are a few issues to watch out for in practice that can bite you in the tuchus. A common mistake is to add to much water, resulting in a soggy mess. The flavors will of course be preserved but the texture is long gone, washed away by carelessness. Eager stuffing eaters will run into another problem if they do not let it sit for a long enough time for the water to fully permeate the dried breadcrumbs. The product here is again still edible, but will be interspersed with bits of uncooked, crunchy crumbs. Maybe you prefer it that way, who am I to say.
+Though it presents itself as a simple problem, there are a few issues to watch out for in practice that can bite you in the tuchus. A common mistake is to add too much water, resulting in a soggy mess. The flavors will of course be preserved but the texture is long gone, washed away by carelessness. Eager stuffing eaters will run into another problem if they do not let it sit for a long enough time for the water to fully permeate the dried breadcrumbs. The product here is again still edible, but will be interspersed with bits of uncooked, crunchy crumbs. Maybe you prefer it that way, who am I to say.
 
 {{<img>}}
 ![Bag](/stuffing/bag.jpg)
