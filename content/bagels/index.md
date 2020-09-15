@@ -1,5 +1,5 @@
 ---
-title: "Everything but the Bagel Seasoning plus Bagels"
+title: "Everything But The Bagel Seasoning Plus Bagels"
 date: 2020-09-14
 ---
 
@@ -15,7 +15,7 @@ Bagels commonly take on a toroidal form, though mishaps can turn that into a mer
 
 {{<img>}}![](dough_circles.jpg){{</img>}}
 
-Next comes the egg wash and toppings. In my ignorant past, I would get bagels from the local Costco, who sources their bagels from Einstein Bros. Bagels, the Colorado-based bagel company. For the uninitiated, Einstein Bros. Bagels duplicitously [markets](https://www.einsteinbros.com/) itself as "Your Neighborhood Bagel Shop" is a Boston Market spin-off whose holding company has [ties to Adolf Hitler](https://en.wikipedia.org/wiki/Einstein_Bros._Bagels#History). Their top bagels that they stock in Costco are the cheddar cheese bagels and everything bagels. While their cheese bagels are good enough, their everything bagels have one too many things, ruining themselves with fennel. Here I have extracted the good parts of those bagels and lessons learned therein, and left the bad in the dust.
+Next comes the egg wash and toppings. In my ignorant past, I would get bagels from the local Costco, who, up until a few months ago, sourced their bagels from Einstein Bros. Bagels, the Colorado-based bagel company. For the uninitiated, Einstein Bros. Bagels, which duplicitously [markets](https://www.einsteinbros.com/) itself as "Your Neighborhood Bagel Shop," is a Boston Market spin-off whose holding company has [ties to Adolf Hitler](https://en.wikipedia.org/wiki/Einstein_Bros._Bagels#History). Their top bagels that they stock in Costco are the cheddar cheese bagels and everything bagels. While their cheese bagels are good enough, their everything bagels have one too many things, ruining themselves with fennel. Here I have extracted the good parts of those bagels and lessons learned therein, and left the bad in the dust.
 
 {{<img>}}![](seasoned.jpg){{</img>}}
 
