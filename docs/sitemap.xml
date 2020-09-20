@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/nachos/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/three-bean-salad/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
