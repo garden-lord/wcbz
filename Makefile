@@ -4,6 +4,10 @@ dev: images
 dist: images
 	hugo -D
 
+wordcount:
+	cd content
+	find . -type f -name '*.md' -exec bash -c 'cat {} | wc -w'  \; | jq -s add
+
 images:
 	bash ./images.sh
 

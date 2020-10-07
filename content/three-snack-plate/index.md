@@ -1,0 +1,12 @@
+---
+title: "Three Snack Platter"
+date: 2020-10-06
+---
+
+Not every meal can be the next Sistine Chapel ceiling of meals. Especially now with global temperatures on the rise and political discord in the streets, it's important to find simplicity where you can. Inspired by the charcuterie boards of old, I present the three snack platter, consisting of Cheez-It Baked Snack Crackers, "Flaming Hot" Cheetos, and LAY'S® Baked Original Potato Crisps. While at first these may seem as disparate as a lime, a rock, and a chair, they seamlessly mingle together after taking some time to get to know each other.
+
+The history of the charcuterie board is both storied and shrouded in mystery. Of course, three snack platter is about as far from [forcemeat](https://en.wikipedia.org/wiki/Forcemeat) as possible, but the parallels between it and the charcuterie board are too similar to ignore. It is said that the charcuterie board originated in ancient Rome when a house servant ran out of plates during a fanciful dinner party, and tried to pass off the board as an exotic dish. But the charcuterie board fell lost to history until nearly 1000 years later in France, when it was discovered that cheese could be placed on the board alongside the charcuterie. This innovation rocketed the charcuterie board to the forefront of high society; these days, an event can hardly be considered worth anyone's time if a charcuterie board is not present.
+
+The next item on the agenda that demands our attention is the curious case of the baked Lays potato crisps. Lacking any pretense of cheese, they appear out of place on the three snack platter. However, on deeper inspection it is clear that they are very much a welcome addition to the platter. Salty as the dickens, the baked Lays provide a palate cleanser between the sharp, hot bite of the cheetos and the hefty cheesiness of the Cheez-Its. The baked Lays are a "healthy" alternative to their fried cousins, but if you ask me, the best chips for someone on a diet is no chips at all! Baked Lays are an awkward cross between a tortilla chip and a regular ol' potato chip, filling any conflict between the two with bland, flavorless potato mass. Perfect for a relaxing bite between the Cheetos and Cheez-Itz!
+
+If you're looking for an easy way to have a quick bite in between meals, don't forget about the three snack platter. In fact, you could change that three to any number you please, but you can't leave out the platter!

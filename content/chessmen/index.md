@@ -11,7 +11,7 @@ The cookies have such a degree of butter that it can easily overload the palate.
 
 {{<img>}}![](dough.jpg){{</img>}}
 
-After shaping the cookies into the requisite squares, an egg was gives them their signature sheen and color contrast. Of course, this only applies if you are brave enough to attempt to emboss the chess pieces onto the cookies. I was not, due to a lack of chess-piece shaped molds in my kitchen.
+After shaping the cookies into the requisite squares, an egg wash gives them their signature sheen and color contrast. Of course, this only applies if you are brave enough to attempt to emboss the chess pieces onto the cookies. I was not, due to a lack of chess-piece shaped molds in my kitchen.
 
 {{<img>}}![](egg.jpg){{</img>}}
 
