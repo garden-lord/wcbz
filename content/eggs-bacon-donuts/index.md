@@ -1,6 +1,6 @@
 ---
 title: "Eggs, Bacon, and Donuts"
-date: 2020-10-09
+date: 2020-10-13
 ---
 
 If there was ever a time to play it safe with a meal, it's breakfast time. Upon waking up, the human stomach needs several hours to kick into high gear before it can handle complex foods such as hamburgers, celery, and pizza. The American breakfast ethos, [however you may look at it](https://www.theatlantic.com/health/archive/2019/05/what-is-breakfast/589411/), is here to stay; you won't go into a Waffle House and find a turkey sandwich any time soon. No, breakfast is breakfast and will always be breakfast. But that doesn't mean we're stuck on the traditional breakfast menu. Mixing and matching can provide enough variety to chow down until the cows come home.

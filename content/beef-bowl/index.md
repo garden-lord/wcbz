@@ -1,0 +1,10 @@
+---
+title: "Bowl o' Brisket"
+date: 2020-10-14
+---
+
+There's some disease going around these days; it has a variety of symptoms but the most prominent is an itch. An itch for Korean BBQ! But that can be tough to scratch to satisfaction in your own home. The 반찬 (or "Bon chon") is tough to make at home in small quantities, and prohibitively expensive to get from your grocer. The meats are a whole big story on their own: between the cuts, the marinades, and the sauces, you've got a real task on your hands! Of course, if you're willing to shell out the dough and risk a lung or two, a Korean BBQ restaurant will hand this all to you on a silver platter. Replicating the whole experience is clearly unachievable, but that doesn't mean it's time to throw in the towel and eat a bowl of beans for dinner! But don't put that bowl away just yet, we can get most of the way to a Korean BBQ dinner with a bowl of brisket.
+
+Korean BBQ chefs have guarded their secrets for centuries, but the simple truth is that a couple thinly sliced meats, some soy sauce, some sesame oil, some Tabasco, and a generous shaking of cayenne pepper is all you need for a premium Korean BBQ experience right at home. The meats are maybe the trickiest part. Any Korean grocery store worth its salt will have a nice hearty brisket, taken on a trip through the deli slicer, already cut up for you and practically ready to eat if not for the fact that it's uncooked. Once you've got those in hand, toss them on the griddle and throw in your accoutrements. That's all there is to it! A nice bowl of glutinous white rice will complement the beef nicely, but it's completely optional.
+
+No more dealing with a pesky grill crusted with burnt meats, no more vomiting after having one meat too many at an all-you-can-eat restaurant, and best of all no more zipping around town to get to the hot new spot to keep up with the times. No, the home kitchen is the most trendy place of all, and it has everything you need!
