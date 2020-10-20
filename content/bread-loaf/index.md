@@ -9,5 +9,5 @@ Ranging from a garden-variety bagel all the way to a sesame seed coated hamburge
 
 In the face of this insurmountable complexity, it is necessary to limit the field of potential options. Right off the bat, you can eliminate the top shelf. Top shelf grocery store bread is an extravagant waste of resources; if you want great bread without breaking the bank, [make it yourself](/bagels). The bottom shelf is usually not the place to go, but it can sometimes have what you're looking for if you have a specific purpose, like getting some plain white bread for a grill out in the park. Wheat specializations can sometimes be a distraction, but in this case the pictured Golden Wheat selection was a welcome diversion, with its hefty, thick slices. At the end of the day, you can't leave the bread aisle empty handed; some bread is better than no bread, so don't get to stuck on all the options.
 
-{{<img>}}![](slice.jpg){{</img>}}
+{{<img>}}![](bread.jpg){{</img>}}
 
