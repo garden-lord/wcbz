@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/grilled-cheeseburger/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tea-pea-smoothie/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/pizza-bagels/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,6 +148,10 @@
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
   </url>
   
 </urlset>
