@@ -6,7 +6,7 @@ enableEmoji = true
 publishDir = "docs"
 
 [params]
-  description = "Reviews of food from the my kitchen and grocery store"
+  description = "Reviews of food from my kitchen and the grocery store"
 
 [markup.goldmark.renderer]
   unsafe= true
