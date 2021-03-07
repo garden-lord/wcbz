@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/bag-of-potatoes/</loc>
-    <lastmod>2021-01-22T00:00:00+00:00</lastmod>
+    <loc>/mac-and-cheese-and-sausage/</loc>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/bag-of-potatoes/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,6 +168,10 @@
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
   </url>
   
 </urlset>
