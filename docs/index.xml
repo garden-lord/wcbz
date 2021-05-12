@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Small Cookies</title>
+      <link>/small-cookies/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/small-cookies/</guid>
+      <description>Not everyone has the resources, time, or fortitude to bake their own cookies. And sometimes, even with all that, that funny old thing called life can sometimes get in the way.</description>
+    </item>
+    
+    <item>
       <title>Wagyu Hot Dog</title>
       <link>/wagyu-dog/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
