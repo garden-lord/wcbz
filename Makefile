@@ -17,3 +17,15 @@ setup:
 	# sudo apt install libheif-examples
 
 	# brew install hugo exiftool imagemagick
+
+post:
+	@mkdir -p content/$(TITLE)
+	@rm -f content/$(TITLE)/index.md
+	@echo '---' >> content/$(TITLE)/index.md
+	@echo 'title: "The Title"' >> content/$(TITLE)/index.md
+	@echo 'date: 2020-01-31' >> content/$(TITLE)/index.md
+	@echo '---' >> content/$(TITLE)/index.md
+	@echo '' >> content/$(TITLE)/index.md
+	@echo '' >> content/$(TITLE)/index.md
+	@echo '{{<img>}}![](something.jpg){{</img>}}' >> content/$(TITLE)/index.md
+	@echo made content/$(TITLE)/index.md
