@@ -1,0 +1,4 @@
+{{ $html := .Inner | markdownify }}
+{{ $caption := .Get 0 }}
+{{ $html := print "<div class=\"centerer-flex2\">" $html "<p>" $caption "</p>" "</div>" }}
+{{ $html | safeHTML }}

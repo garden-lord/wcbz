@@ -1,5 +1,3 @@
-console.log("Hello!");
-
 let image = [
   ["/images/smalldogs/dog1.png", 300],
   ["/images/smalldogs/dog2.png", 300],

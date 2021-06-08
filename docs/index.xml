@@ -5,7 +5,20 @@
     <link>/</link>
     <description>Recent content on What&#39;s Cookin&#39;</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bean-gate</title>
+      <link>/beangate/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/beangate/</guid>
+      <description>Every bean has a simple dream: to grow and mature in the sweet sunshine of mother nature, be picked by a Ploeger BP2140E self-propelled bean picker, shucked, cooked, canned in a pool of their own juice, packaged in a group of eight, shipped to a Costco, sold to a scrupulous consumer, microwaved for one minute, salted, and eaten from a bowl.</description>
+    </item>
+    
     <item>
       <title>Small Cookies</title>
       <link>/small-cookies/</link>
@@ -318,7 +331,7 @@
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tj-cereal/</guid>
-      <description>It&amp;rsquo;s breakfast time! And unfortunately there are no Froot Loops to be found, so we will have to settle for Trader Joe&amp;rsquo;s Organic Honey Crunch n&#39; Oats Cereal.</description>
+      <description>It&amp;rsquo;s breakfast time! And unfortunately there are no Froot Loops to be found, so we will have to settle for Trader Joe&amp;rsquo;s Organic Honey Crunch n&amp;rsquo; Oats Cereal.</description>
     </item>
     
     <item>

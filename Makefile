@@ -1,8 +1,8 @@
 dev: images
-	/snap/bin/hugo -F server -D
+	hugo server -D
 
 dist: images
-	/snap/bin/hugo -D
+	hugo -D
 
 wordcount:
 	cd content
