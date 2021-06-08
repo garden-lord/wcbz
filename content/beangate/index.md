@@ -27,4 +27,4 @@ In the face of this news I was distraught. I have spent years building up my bea
 
 {{<imgcap "Last stop, the beach! It's too cold for the beans to take a swim, but it's nice just to be near it.">}}![](1.jpg){{</imgcap>}}
 
-All good things must come to an end, such is the inevitable march of entropy. And thus, the beans and I had to part ways. I'd be lying if I said I wasn't feeling a bit empty inside, not in my heart, but a few inches further south if you know what I mean. There's no telling when these unprecedented times will end and life can return to normal, where any old can of beans of the street is trustworthy. It may take years, but I've got nowhere else to be.
+All good things must come to an end, such is the inevitable march of entropy. And thus, the beans and I had to part ways. I'd be lying if I said I wasn't feeling a bit empty inside, not in my heart, but a few inches further south if you know what I mean. There's no telling when these unprecedented times will end and life can return to normal, where any old can of beans off the street is trustworthy. It may take years, but I've got nowhere else to be.
