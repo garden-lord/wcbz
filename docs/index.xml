@@ -5,11 +5,7 @@
     <link>/</link>
     <description>Recent content on What&#39;s Cookin&#39;</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cat Tofu</title>
       <link>/cat-tofu/</link>
@@ -340,7 +336,7 @@
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tj-cereal/</guid>
-      <description>It&amp;rsquo;s breakfast time! And unfortunately there are no Froot Loops to be found, so we will have to settle for Trader Joe&amp;rsquo;s Organic Honey Crunch n&amp;rsquo; Oats Cereal.</description>
+      <description>It&amp;rsquo;s breakfast time! And unfortunately there are no Froot Loops to be found, so we will have to settle for Trader Joe&amp;rsquo;s Organic Honey Crunch n&#39; Oats Cereal.</description>
     </item>
     
     <item>
