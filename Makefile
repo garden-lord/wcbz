@@ -1,5 +1,5 @@
 dev: images
-	hugo server -D
+	hugo server -D -F
 
 dist: images
 	hugo -D

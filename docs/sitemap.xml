@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/egg/</loc>
+    <loc>/cheese-corn/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/egg/</loc>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/cat-tofu/</loc>
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>

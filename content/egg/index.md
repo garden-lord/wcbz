@@ -1,6 +1,6 @@
 ---
 title: "Egg"
-date: 2021-10-01
+date: 2021-09-30
 ---
 
 "Leggo my eggo" rings out from elementary school cafeterias to auto-playing TVs in a Walmart electronics section. But where are the eggs? Aside from the "breakfast for dinner" trend, it's all pancakes and waffles and stuffed pancake bites. Kids these days don't even know what an egg looks like. That's no way for the next generation to grow up!
