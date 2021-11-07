@@ -5,7 +5,7 @@ date: 2021-09-30
 
 "Leggo my eggo" rings out from elementary school cafeterias to auto-playing TVs in a Walmart electronics section. But where are the eggs? Aside from the "breakfast for dinner" trend, it's all pancakes and waffles and stuffed pancake bites. Kids these days don't even know what an egg looks like. That's no way for the next generation to grow up!
 
-The first time I saw an egg I was just seven months shy of by sixth birthday. It glistened with the blissful ignorance of days gone by as it rolled around the counter top, leaving a trail of hazy juice in its wake. The parent hen clearly put in a strong effort on this egg, evidenced by its pristine curve and rotational symmetry. Back in those days it would take me three, maybe even four bites to gobble down a hard-boiled egg; if only that me could see the me that it became, eating eggs by the dozen at a rate of one bite per egg. Boy, that sure would make a great classic movie scene.
+The first time I saw an egg I was just seven months shy of my sixth birthday. It glistened with the blissful ignorance of days gone by as it rolled around the counter top, leaving a trail of hazy juice in its wake. The parent hen clearly put in a strong effort on this egg, evidenced by its pristine curve and rotational symmetry. Back in those days it would take me three, maybe even four bites to gobble down a hard-boiled egg; if only that me could see the me that it became, eating eggs by the dozen at a rate of one bite per egg. Boy, that sure would make a great classic movie scene.
 
 {{<img>}}![](eggs.jpg){{</img>}}
 
