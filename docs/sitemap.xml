@@ -1,137 +1,232 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/toaster-dogs/</loc>
+    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
   <url>
     <loc>/root-beer/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/sweet-bites/</loc>
     <lastmod>2021-10-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/cheese-corn/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/egg/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/cat-tofu/</loc>
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/beangate/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/small-cookies/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/wagyu-dog/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tj-chicken-pot-pie/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/big-cookies/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/mac-and-cheese-and-sausage/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/bag-of-potatoes/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/cookie-showdown/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/cupcookies/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/grilled-cheeseburger/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tea-pea-smoothie/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/pizza-bagels/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/everything-peas/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/bread-loaf/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/beef-bowl/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/eggs-bacon-donuts/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/chips-and-dips/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/broccoli-beef/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/three-snack-plate/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/chessmen/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/leftover-fries/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/pea-smoothie/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/jjajangmyeon/</loc>
     <lastmod>2020-09-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/nachos/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/three-bean-salad/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/bagels/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/salmon-nuggets/</loc>
     <lastmod>2020-09-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/spicy-tajin-beans/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/black-pepper/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/stuffing/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/turkey-wraps/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/everything-beans/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/udon/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/bean-chili/</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/gatorade/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tj-cereal/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/mint-ice-cream/</loc>
     <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/</loc>
   </url>
+  
 </urlset>
