@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Egg 2</title>
+      <link>/egg2/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/egg2/</guid>
+      <description>A standard unmodded chicken lays a couple hundred eggs per year, with a break in the late fall to take care of some molting business. The data is sketchy, but most seem to agree that at least 20 billion chickens are pecking around at any given time.</description>
+    </item>
+    
+    <item>
       <title>Toaster Dogs</title>
       <link>/toaster-dogs/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>

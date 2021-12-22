@@ -3,6 +3,7 @@ dev: images
 
 dist: images
 	hugo -D
+	bash -c 'echo whatscookin.biz > docs/CNAME'
 
 wordcount:
 	cd content
