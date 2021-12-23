@@ -2,7 +2,7 @@ dev: images
 	hugo server -D -F --bind 0.0.0.0
 
 dist: images
-	hugo -D
+	hugo -F
 	bash -c 'echo whatscookin.biz > docs/CNAME'
 
 wordcount:
