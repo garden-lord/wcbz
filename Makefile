@@ -2,6 +2,7 @@ dev: images
 	hugo server -D -F --bind 0.0.0.0
 
 dist: images
+	bash images.sh
 	hugo -F
 	bash -c 'echo whatscookin.biz > docs/CNAME'
 
@@ -10,6 +11,7 @@ wordcount:
 	find . -type f -name '*.md' -exec bash -c 'cat {} | wc -w'  \; | jq -s add
 
 images:
+	bash ./thumbs.sh
 	bash ./images.sh
 
 setup:
