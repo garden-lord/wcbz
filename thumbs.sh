@@ -1,8 +1,8 @@
 #!/bin/bash
 
-set -euo pipefail
+# Generate a compressed thumb.jpg adjacent to any cover.jpg in content/
 
-# convert -strip -interlace Plane  -quality 85% cover.jpg result.jpg
+set -euo pipefail
 
 FILES=$(find content -name "cover.jpg")
 PERCENT="60%"
@@ -12,3 +12,4 @@ for f in $FILES; do
     echo "Compressing $f to $PERCENT"
     convert -strip -interlace Plane  -quality "$PERCENT" "$f" "$FOLDER/thumb.jpg"
 done
+
