@@ -1,5 +1,6 @@
 {{ define "main" }}
     {{- partial "_shared/title.html" . -}}
+    {{ if .Params.egg }}<script src="/js/egg.js"></script>{{ end }}
     <div class="main-content">
         <!-- Begin Article
         ================================================== -->

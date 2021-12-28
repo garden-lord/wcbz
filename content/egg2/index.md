@@ -1,6 +1,7 @@
 ---
 title: "Egg 2"
 date: 2021-12-22
+egg: true
 ---
 
 A standard unmodded chicken lays a couple hundred eggs per year, with a break in the late fall to take care of some molting business. The [data](https://sentientmedia.org/number-of-chickens-in-the-us/) is [sketchy](https://www.fao.org/livestock-systems/resources/key-facts/en/), but most seem to agree that at least 20 billion chickens are pecking around at any given time. Not all of these hefty birds lay eggs though, a [few million tons](https://www.fao.org/3/cb4479en/cb4479en.pdf) devote themselves to becoming chicken nuggets. The rest pump out [65 million tons of eggs](https://www.fao.org/3/i6421e/i6421e.pdf) a year; sounds like a lot of eggs to me, just think of all the cholesterol! Just kidding, [think again!](https://en.wikipedia.org/wiki/Egg_as_food#Cardiovascular_risk) Some recent [findings](https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/expert-answers/cholesterol/faq-20058468) cast doubt on the conventional thought linking eggs and heart health, as long as you keep to a reasonable 7 eggs a week.
