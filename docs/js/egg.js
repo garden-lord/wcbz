@@ -104,8 +104,12 @@ function a(text, goal, done) {
   let a = document.createElement("a");
   a.innerText = text;
   a.style["cursor"] = "pointer";
+  let alreadyClicked = false;
   a.onclick = () => {
-    clicked += 1;
+    if (!alreadyClicked) {
+      clicked += 1;
+      alreadyClicked = true;
+    }
     if (clicked === goal) {
       done();
     }
@@ -121,9 +125,8 @@ function done() {
   document.querySelector("div.main-content").innerHTML = egg;
 }
 
-
 document.addEventListener("DOMContentLoaded", () => {
-    const post = document.querySelector("div.article-post");
+  const post = document.querySelector("div.article-post");
   const p = post.querySelector("p");
 
   let data = p.childNodes[0];
