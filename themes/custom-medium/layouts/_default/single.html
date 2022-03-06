@@ -63,15 +63,21 @@
                     {{with .PrevInSection}}
                         <a class="d-block col-md-6 text-lg-right" href="{{.Permalink}}">{{.Title}} &raquo;</a>
                     {{end}}
-
+                    <div class="email-signup">
+                        <button id="signup-activate">Sign Up for Email Alerts</button>
+                        <div id="signup"></div>
+                    </div>
                     <div style="height: 100px"></div>
                     <div class="clearfix"></div>
                     </div>
                     <!-- End Next and PrevPage -->
+
                 </div>
                 <!-- End Post -->
+
             </div>
         </div>
     </div>
+
 {{ end }}
 

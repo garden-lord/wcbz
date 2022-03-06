@@ -1,0 +1,24 @@
+name: Weekly
+
+on:
+  schedule:
+    - cron: "0 16 * * 5"
+  workflow_dispatch:
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: deps
+        run: |
+          pip3 install sendgrid
+      - name: weekly
+        env:
+          FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
+          SITE: ${{ secrets.SITE }}
+          UNSUB_URL: ${{ secrets.UNSUB_URL }}
+          DROPBOX_KEY: ${{ secrets.DROPBOX_KEY }}
+          SENDGRID_KEY: ${{ secrets.SENDGRID_KEY }}
+        run: |
+          python3 send_emails.py

@@ -37,3 +37,29 @@
 div.col-md-9.flex-first.flex-md-unordered {
   margin: 0 auto;
 }
+
+.email-signup {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 150px;
+  font-family: Righteous;
+}
+
+.email-signup > button {
+  border: 1px solid #038252;
+  background-color: #9fc8b8;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.email-signup > button:hover {
+  border: 1px solid #038252;
+  background-color: #7fc0a7;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.email-signup > button:focus {
+  -webkit-box-shadow: inset 0px 0px 16px -6px #000000; 
+  box-shadow: inset 0px 0px 16px -6px #000000;
+}

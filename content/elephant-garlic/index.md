@@ -3,7 +3,7 @@ title: Elephant Garlic
 date: 2021-12-23
 ---
 
-Nothing says "me-yow" better than a pop of garlic flavor in a dish. But mincing, pressing, and dicing leads you to a fresh headache faster than you can say "Oh my, what a pleasant meal." Of course the pre-skinned or even pre-minced garlic from the store will do, and even comes with a fun jar that you can use to hold a strawberry or two, but sitting around in their packages takes off the signature edge that is the whole reason the garlic was sought in the first place.
+Nothing says "me-yow" better than a pop of garlic flavor in a dish. But mincing, pressing, and dicing leads you to a fresh headache faster than you can say "Oh my, what a pleasant meal." Of course the pre-peeled or even pre-minced garlic from the store will do, and even comes with a fun jar that you can use to hold a strawberry or two, but sitting around in their packages takes off the signature edge that is the whole reason the garlic was sought in the first place.
 
 {{<img>}}![](peeled.jpg){{</img>}}
 

@@ -68,4 +68,61 @@ async function main() {
 document.addEventListener("DOMContentLoaded", () => {
   favicon = document.querySelector("link[rel=icon]");
   main();
+  emailSignUp();
 });
+
+// email sign up
+function emailSignUp() {
+  const activateBtn = document.getElementById("signup-activate");
+  const container = document.getElementById("signup");
+  if (!activateBtn) {
+    return;
+  }
+  activateBtn.onclick = () => {
+    if (container.children.length > 0) {
+      return;
+    }
+    const iframe = document.createElement("iframe");
+    iframe.setAttribute(
+      "src",
+      "https://tally.so/embed/nPLgdn?alignLeft=1&transparentBackground=1"
+    );
+    iframe.setAttribute("width", "100%");
+    iframe.setAttribute("height", 220);
+    iframe.setAttribute("frameborder", "0");
+    iframe.setAttribute("marginheight", "0");
+    iframe.setAttribute("marginheight", "0");
+    iframe.setAttribute("title", "Email Sign Up");
+    iframe.onload = () => {
+      activateBtn.hidden = true;
+      window.scrollTo(0,document.body.scrollHeight);
+    }
+    container.appendChild(iframe);
+  };
+
+  const removeIframe = (e) => {
+    const data = JSON.parse(e.data);
+    if (data.event === "Tally.FormSubmitted") {
+      setTimeout(() => {
+        container.innerHTML = "";
+      }, 500);
+    }
+  };
+
+  window.onmessage = (e) => {
+    try {
+      removeIframe(e);
+    } catch (err) {}
+  };
+
+  //   <iframe
+  //   src=
+  //   width="100%"
+  //   height="200"
+  //   frameborder="0"
+  //   marginheight="0"
+  //   marginwidth="0"
+  //   title="Email Sign Up"
+  // >
+  // </iframe>
+}
