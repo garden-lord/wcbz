@@ -102,7 +102,7 @@ def email_content(recent_posts, to_email) -> Tuple[str, str]:
     <head></head>
     <body>
         <h1>
-            <a href="{SITE}">What's Cookin'</a>? Let's find out!
+            <a clicktracking="off" href="{SITE}">What's Cookin'</a>? Let's find out!
         </h1>
         <p>
             <b>Recent posts</b>
@@ -110,7 +110,7 @@ def email_content(recent_posts, to_email) -> Tuple[str, str]:
                 {lis}
             </ul>
         </p>
-        <a href="{UNSUB_URL}?email={to_email}"><small>Unsubscribe</small></a>
+        <a clicktracking="off" href="{UNSUB_URL}?email={to_email}"><small>Unsubscribe</small></a>
     </body>
     </html>
     """.strip()
