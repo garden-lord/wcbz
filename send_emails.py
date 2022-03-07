@@ -95,7 +95,7 @@ def email_content(recent_posts, to_email) -> Tuple[str, str]:
     lis = []
     for post in recent_posts:
         date = post["date"].strftime("%m/%d/%y")
-        lis.append(f'<li>{date} - <a href="{post["url"]}">{post["title"]}</a>')
+        lis.append(f'<li>{date} - <a clicktracking="off" href="{post["url"]}">{post["title"]}</a>')
     lis = "\n".join(lis)
     html = f"""
     <html>
